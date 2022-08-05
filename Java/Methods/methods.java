@@ -1,3 +1,4 @@
+package Methods;
 import java.util.*;
 public class methods {
     int rollno;
